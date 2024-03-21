@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5b12c38e-4319-4ab9-9b99-42af6d15d124" name="Default Changelist" comment="" />
+    <list default="true" id="5b12c38e-4319-4ab9-9b99-42af6d15d124" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/config/database.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config/database.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1711059278737</updated>
       <workItem from="1711059279825" duration="168000" />
-      <workItem from="1711059479505" duration="617000" />
+      <workItem from="1711059479505" duration="2037000" />
     </task>
     <servers />
   </component>
@@ -137,9 +139,9 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="539" y="28" width="840" height="1034" key="search.everywhere.popup" timestamp="1711059285523">
+    <state x="539" y="28" width="840" height="1034" key="search.everywhere.popup" timestamp="1711063216501">
       <screen x="0" y="29" width="1920" height="1027" />
     </state>
-    <state x="539" y="28" width="840" height="1034" key="search.everywhere.popup/0.29.1920.1027@0.29.1920.1027" timestamp="1711059285523" />
+    <state x="539" y="28" width="840" height="1034" key="search.everywhere.popup/0.29.1920.1027@0.29.1920.1027" timestamp="1711063216501" />
   </component>
 </project>
