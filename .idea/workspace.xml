@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b12c38e-4319-4ab9-9b99-42af6d15d124" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/rails5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/rails5.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,7 +132,8 @@
       <option name="presentableId" value="Default" />
       <updated>1711059278737</updated>
       <workItem from="1711059279825" duration="168000" />
-      <workItem from="1711059479505" duration="3495000" />
+      <workItem from="1711059479505" duration="4322000" />
+      <workItem from="1711097414753" duration="1276000" />
     </task>
     <task id="LOCAL-00001" summary="tryign to deploy on railway">
       <created>1711064365262</created>
@@ -144,7 +142,21 @@
       <option name="project" value="LOCAL" />
       <updated>1711064365262</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="tryign to deploy on railway">
+      <created>1711065905956</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1711065905956</updated>
+    </task>
+    <task id="LOCAL-00003" summary="tryign to deploy on railway">
+      <created>1711066072445</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1711066072445</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -155,17 +167,19 @@
     <option name="LAST_COMMIT_MESSAGE" value="tryign to deploy on railway" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="407" y="29" width="1096" height="1027" key="CommitChangelistDialog2" timestamp="1711064365223">
-      <screen x="0" y="29" width="1920" height="1027" />
+    <state x="407" y="1080" width="1096" height="1056" key="CommitChangelistDialog2" timestamp="1711066072385">
+      <screen x="0" y="0" width="1920" height="2136" />
     </state>
+    <state x="407" y="1080" width="1096" height="1056" key="CommitChangelistDialog2/0.0.1920.2136@0.0.1920.2136" timestamp="1711066072385" />
     <state x="407" y="29" width="1096" height="1027" key="CommitChangelistDialog2/0.29.1920.1027@0.29.1920.1027" timestamp="1711064365223" />
     <state x="182" y="117" width="1536" height="863" key="DiffContextDialog" timestamp="1711064349626">
       <screen x="0" y="29" width="1920" height="1027" />
     </state>
     <state x="182" y="117" width="1536" height="863" key="DiffContextDialog/0.29.1920.1027@0.29.1920.1027" timestamp="1711064349626" />
-    <state x="455" y="197" width="1000" height="700" key="Vcs.Push.Dialog.v2" timestamp="1711064366984">
-      <screen x="0" y="29" width="1920" height="1027" />
+    <state x="455" y="1080" width="1000" height="1056" key="Vcs.Push.Dialog.v2" timestamp="1711066073782">
+      <screen x="0" y="0" width="1920" height="2136" />
     </state>
+    <state x="455" y="1080" width="1000" height="1056" key="Vcs.Push.Dialog.v2/0.0.1920.2136@0.0.1920.2136" timestamp="1711066073782" />
     <state x="455" y="197" width="1000" height="700" key="Vcs.Push.Dialog.v2/0.29.1920.1027@0.29.1920.1027" timestamp="1711064366984" />
     <state x="677" y="423" width="555" height="243" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1711064548608">
       <screen x="0" y="0" width="1920" height="2136" />
